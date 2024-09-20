@@ -28,8 +28,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![mobile-view](https://github.com/user-attachments/assets/8006763e-93e9-4862-b59e-6a81ecc4015d)
-![mobile-sidemenu](https://github.com/user-attachments/assets/e78bea35-60f1-493c-aa36-80b2eb0401ee)
+
+![news-homepage-mobile](https://github.com/user-attachments/assets/3f660431-e843-426d-aa9a-305ad4826240)
+![news-homepage-menubar](https://github.com/user-attachments/assets/5c471921-cb2b-4fab-8477-19f9212cf69f)
+
 ![desktop-view](https://github.com/user-attachments/assets/aef8f27b-5b5f-40cc-831f-90f171c88a21)
 
 
