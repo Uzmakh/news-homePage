@@ -28,11 +28,15 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![mobile-view](https://github.com/user-attachments/assets/8006763e-93e9-4862-b59e-6a81ecc4015d)
+![mobile-sidemenu](https://github.com/user-attachments/assets/e78bea35-60f1-493c-aa36-80b2eb0401ee)
+![desktop-view](https://github.com/user-attachments/assets/aef8f27b-5b5f-40cc-831f-90f171c88a21)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://www.frontendmentor.io/solutions/responsive-news-homepage-using-css-grid-RhP_prZTXF
+- Live Site URL: https://uzmakh.github.io/news-homePage/#
 
 ## My process
 
